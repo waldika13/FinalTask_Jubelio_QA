@@ -1,5 +1,7 @@
 # Getting started
 
+Repository ini merupakan final project pada Virtual Internship Experience QA Jubelio Batch Oktober 2023.
+
 ## Installation
 
 Clone the repository
